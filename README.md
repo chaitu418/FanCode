@@ -7,7 +7,7 @@ This project automates the verification of todo task completion for users in the
 1. **Clone the repository:**
     ```bash
     git clone <repository_url>
-    cd FanCode_Automation
+    cd FanCode
     ```
 
 2. **Create a virtual environment and activate it:**
